@@ -4,6 +4,10 @@
 
 C3 binding for a tiny cross-platform **webview** library to build modern cross-platform GUIs.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/thechampagne/webview-c3/main/.github/assets/screenshot.png"/>
+</p>
+
 ### References
  - [webview](https://github.com/webview/webview)
 
