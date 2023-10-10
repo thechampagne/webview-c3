@@ -1,0 +1,13 @@
+{
+  "provides" : "webview",
+  "targets" : {
+    "linux-x64" : {
+      // Extra flags to the linker for this target:
+      "linkflags" : [],
+      // C3 libraries this target depends on:
+      "dependencies" : [],
+      // The external libraries to link for this target:
+      "linked-libs" : ["webview"]
+    },
+  }
+}
